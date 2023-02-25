@@ -8,6 +8,7 @@ py manage.py createsuperuser
 pip install django==3.0.5 <br>
 pip install django-widget-tweaks
 
+pip install -r requirements.txt
 
 py manage.py makemigrations <br>
 py manage.py migrate<br>
