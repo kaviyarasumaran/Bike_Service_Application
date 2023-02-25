@@ -9,8 +9,8 @@ pip install django==3.0.5 <br>
 pip install django-widget-tweaks
 
 
-py manage.py makemigrations
-py manage.py migrate
+py manage.py makemigrations <br>
+py manage.py migrate<br>
 py manage.py runserver
 
 
