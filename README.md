@@ -10,9 +10,9 @@ pip install django-widget-tweaks
 
 pip install -r requirements.txt
 
-py manage.py makemigrations <br>
-py manage.py migrate<br>
-py manage.py runserver
+python manage.py makemigrations <br>
+python manage.py migrate<br>
+python manage.py runserver
 
 
 http://127.0.0.1:8000/
