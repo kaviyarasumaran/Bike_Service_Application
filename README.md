@@ -5,7 +5,7 @@ py manage.py createsuperuser
 
 ### following steps
 
-pip install django==3.0.5
+pip install django==3.0.5 <br>
 pip install django-widget-tweaks
 
 
